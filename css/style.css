@@ -1,0 +1,70 @@
+/* universal */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* banner section start */
+.banner{
+    height: 720px;
+    background-image: url(/assets/hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.container{
+    padding-top: 200px;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    color: #ffffff;
+}
+.b-p1{
+    font-size: 32px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 80px;
+}
+.b-p2{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+    padding-bottom: 32px;
+}
+
+.btn{
+    padding: 21px 32px;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #ffffff;
+    background-color: #52C303;
+}
+/* banner section end */
+
+/* card section start */
+.card{
+    text-align: center;
+    width: 20%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.container2{
+
+}
+.c-p1{
+
+}
+h4{
+
+}
+.c-p2{
+
+}
+/* card section end */
